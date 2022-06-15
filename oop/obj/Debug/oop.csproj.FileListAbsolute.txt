@@ -1,0 +1,8 @@
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\bin\Debug\oop.exe.config
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\bin\Debug\oop.exe
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\bin\Debug\oop.pdb
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\obj\Debug\oop.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\obj\Debug\oop.exe
+D:\SEMESTER 2\Pemrograman\pertemuan6\oop\oop\obj\Debug\oop.pdb
